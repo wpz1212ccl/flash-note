@@ -136,11 +136,10 @@ flutter run
 
 ## 关于开发者
 
+**PgStar** — AI Product & Mobile App Developer
+
 **韦品注** | 广西民族大学 人工智能学院 | 23计科三班
 
-- 专注 AI 产品与移动应用开发
-- 熟练使用 Claude Code 等 AI Agent 进行 Vibe Coding
-- 探索 AI 协同开发的工程化实践
 
 ---
 
