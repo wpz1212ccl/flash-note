@@ -1,0 +1,7 @@
+linter:
+  rules: []
+
+analyzer:
+  errors:
+    unused_element: warning
+    override_on_non_overriding_member: warning
