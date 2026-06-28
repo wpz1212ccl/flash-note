@@ -138,7 +138,6 @@ flutter run
 
 **PgStar** — AI Product & Mobile App Developer
 
-**韦品注** | 广西民族大学 人工智能学院 | 23计科三班
 
 
 ---
